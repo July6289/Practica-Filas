@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1697119824 source:f:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas dobles.h"
+	"Fila.h"
+	"Lista simple.h"
+	"string.h"
+
+1697111066 f:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\lib.h
+
+1697414434 f:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\fila.h
+	"Lista simple.h"
+
+1697628756 source:f:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas dobles.h"
+	"Fila.h"
+	"Lista simple.h"
+	"Cliente.h"
+	"string.h"
+	<time.h>
+
+1697111056 source:f:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\lib.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib.h"
+	"Fila.h"
+
+1697592426 source:e:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas dobles.h"
+	"Fila.h"
+	"Lista simple.h"
+	"Cliente.h"
+	"string.h"
+	<time.h>
+
+1697034874 e:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\lib.h
+
+1697414434 e:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\fila.h
+	"Lista simple.h"
+
+1697644080 f:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\listas dobles.h
+	"Cliente.h"
+
+1697643126 source:f:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\listas dobles.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas dobles.h"
+	"Fila.h"
+	"Lista simple.h"
+	"string.h"
+	<time.h>
+
+1697414990 f:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\lista simple.h
+	"Cliente.h"
+
+1697628756 source:f:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\lista simple.c
+	<stdio.h>
+	<stdlib.h>
+	"Cliente.h"
+	"Listas dobles.h"
+	"Fila.h"
+	"Lista simple.h"
+	"string.h"
+	<time.h>
+
+1697643128 f:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\cliente.h
+
+1697628754 source:f:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas dobles.h"
+	"Fila.h"
+	"Lista simple.h"
+	"Cliente.h"
+	"string.h"
+	<time.h>
+
+1697597548 source:e:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas dobles.h"
+	"Fila.h"
+	"Lista simple.h"
+	"Cliente.h"
+	"string.h"
+	<time.h>
+
+1697409428 e:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\listas dobles.h
+	"Cliente.h"
+
+1697592426 e:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\cliente.h
+
+1697414990 e:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\lista simple.h
+	"Cliente.h"
+
+1697597412 source:e:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\lista simple.c
+	<stdio.h>
+	<stdlib.h>
+	"Cliente.h"
+	"Listas dobles.h"
+	"Fila.h"
+	"Lista simple.h"
+	"string.h"
+	<time.h>
+
+1697413408 source:e:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\listas dobles.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas dobles.h"
+	"Fila.h"
+	"Lista simple.h"
+	"string.h"
+	<time.h>
+
+1697482070 source:e:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas dobles.h"
+	"Fila.h"
+	"Lista simple.h"
+	"string.h"
+	<time.h>
+
+1697643566 source:f:\2°cuatrimestre\trabajos\tp de repaso\practicando filas\elarchivo.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas dobles.h"
+	"Fila.h"
+	"Lista simple.h"
+	"Cliente.h"
+	"string.h"
+	<time.h>
+
