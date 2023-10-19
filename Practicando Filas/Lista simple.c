@@ -7,7 +7,7 @@
 #include "string.h"
 #include <time.h>
 #define archivos "archivos.dat"
-
+fsfefr
 nodoSimple*CrearNodoSimple(stCliente valor)
 {
     nodoSimple*NuevoNodo=(nodoSimple*)malloc(sizeof(nodoSimple));
